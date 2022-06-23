@@ -1,0 +1,1 @@
+{"version":3,"file":"task.dto.js","sourceRoot":"","sources":["../../../../src/services/task/dto/task.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAAuF;AAEvF,MAAa,OAAO;CAUnB;AARG;IADC,IAAA,0BAAQ,GAAE;;mCACS;AAIpB;IAHC,IAAA,4BAAU,GAAE;IACZ,IAAA,0BAAQ,GAAE;IACV,IAAA,2BAAS,EAAC,EAAE,CAAC;;4CACe;AAG7B;IAFC,IAAA,4BAAU,GAAE;IACZ,IAAA,2BAAS,GAAE;;uCACa;AAT7B,0BAUC"}
